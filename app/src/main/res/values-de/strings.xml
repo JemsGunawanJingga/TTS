@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Data Pemilu</string>
+    <string name="label_username">Nutzername</string>
+    <string name="label_password">Passwort</string>
+    <string name="btn_title_login">Anmeldung</string>
+    <string name="btn_title_signup">unterschreiben</string>
+    <string name="btn_label_ok">Ok</string>
+    <string name="label_firstname">Vorname</string>
+    <string name="label_lastname">Nachname</string>
+    <string name="label_passwordconfirm">Passwort Bestätigung</string>
+    <string name="label_name">Name</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_phone">Telefonnummer</string>
+    <string name="label_About">Um</string>
+    <string name="label_Login1">Login Formular</string>
+    <string name="label_Signup1">Anmeldeformular</string>
+
+</resources>

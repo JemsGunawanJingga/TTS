@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Data Pemilu</string>
+    <string name="label_username">Nama pengguna</string>
+    <string name="label_password">Kata sandi</string>
+    <string name="btn_title_login">Masuk</string>
+    <string name="btn_title_signup">Daftar</string>
+    <string name="btn_label_ok">Oke</string>
+    <string name="label_firstname">Nama Depan</string>
+    <string name="label_lastname">Nama Belakang</string>
+    <string name="label_passwordconfirm">Konfirmasi Kata Sandi</string>
+    <string name="label_name">Nama Pengguna</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_phone">Nomer Telepon</string>
+    <string name="label_About">Tentang</string>
+    <string name="label_Login1">Login Form</string>
+    <string name="label_Signup1">Sign up</string>
+</resources>

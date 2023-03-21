@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Data Pemilu</string>
+    <string name="label_username">Yūzā-mei</string>
+    <string name="label_password">Pasuwādo</string>
+    <string name="btn_title_login">Roguin</string>
+    <string name="btn_title_signup">Sainappu</string>
+    <string name="btn_label_ok">Oke</string>
+    <string name="label_firstname">Fāsutonēmu</string>
+    <string name="label_lastname">Myōji</string>
+    <string name="label_passwordconfirm">Pasuwādo no kakunin</string>
+    <string name="label_name">Namae</string>
+    <string name="label_profile">Purofīru</string>
+    <string name="label_phone">Tenwabangō</string>
+    <string name="label_About">Daitai</string>
+    <string name="label_Login1">Roguinfōmu</string>
+    <string name="label_Signup1">Sainappufōmu</string>
+
+</resources>
